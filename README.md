@@ -1,5 +1,5 @@
 ### - UyA - 2018-19 -
-# Practica 1 UyA: Introducción a http
+# Práctica 1 UyA: Introducción a http
 
 **Análisis realizado con Firefox**  
 http://www.gobiernodecanarias.org/istac/api/
